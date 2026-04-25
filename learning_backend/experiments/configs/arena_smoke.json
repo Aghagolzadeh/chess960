@@ -1,0 +1,6 @@
+{
+  "white": "chess960_heuristic",
+  "black": "random",
+  "games": 4,
+  "seed": 42
+}
